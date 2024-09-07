@@ -26,11 +26,17 @@ Design and build an autonomous, self-contained robot that can traverse an unknow
 - **Time Allocation**: Each robot has 12 minutes of total maze access time, with time measured from exiting the start square to entering the destination square.
 - **Run Conditions**: Touching the robot during a run results in an aborted run and a 20-second penalty on the next run.
 - **Environment**: Standard ambient conditions apply; do not assume consistent lighting or floor conditions.
-  
 
+  
 ## Sample Mazes
 
 Sample mazes are available for download in this repository to help teams prepare for the competition layout.
+
+## Contributors
+
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
+- [Mohammed Owda](https://github.com/M7mdOdeh1)
+- [Osaid Hamza](https://github.com/OsaidHamza7)
 
 
 
