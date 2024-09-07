@@ -1,6 +1,6 @@
 # Micromouse Maze Simulator
 
-This repository contains resources and documentation for teams participating in the Micromouse Competition as part of the ENCS4380 Interfacing Techniques course. The goal of this competition is for small teams of students to design and build an autonomous robot capable of navigating a maze from a specified corner to the center in the shortest time possible.
+This repository contains resources and documentation for teams participating in the Micromouse Competition as part of the ENCS4380 Interfacing Techniques course. This competition aims for small teams of students to design and build an autonomous robot capable of navigating a maze from a specified corner to the center in the shortest time possible.
 
 ## Objective
 
@@ -26,11 +26,7 @@ Design and build an autonomous, self-contained robot that can traverse an unknow
 - **Time Allocation**: Each robot has 12 minutes of total maze access time, with time measured from exiting the start square to entering the destination square.
 - **Run Conditions**: Touching the robot during a run results in an aborted run and a 20-second penalty on the next run.
 - **Environment**: Standard ambient conditions apply; do not assume consistent lighting or floor conditions.
-
-## Simulator
-
-- **Usage**: A virtual machine simulator is provided which can be run using VirtualBox for practice runs.
-- **Installation**: Instructions for both VM and native installation are provided in the repository.
+  
 
 ## Sample Mazes
 
